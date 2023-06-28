@@ -118,7 +118,7 @@ const Navbar = ({ bgClassName, textClassName }) => {
         </div>
       </div>
       <div className="navbar-center">
-        <h2 className={`font-extrabold text-2xl ${textClassName}`}>LVC</h2>
+        <h2 className={`font-extrabold text-2xl ${textClassName}`}>Kids-Camp</h2>
       </div>
       <div className="navbar-end mr-4">
         {user ? (
