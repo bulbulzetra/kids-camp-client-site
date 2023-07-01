@@ -14,11 +14,11 @@ const Questions = () => {
             <div className="collapse-content pl-0">
               <p>
                 Our summer camp programs include language courses and all sorts
-                of activities you didn&apos;t know were possible. Total
+                of activities. Total
                 immersion in a new country, with other students from all around
                 the world. You will certainly have the adventure of a lifetime.
                 Here is an example of a full day during your summer camp with
-                LVC:
+                kids-camp:
               </p>
               <ul className="list-disc grid gap-3 mt-5">
                 <li className="ml-4 flex items-center gap-2">
@@ -40,11 +40,11 @@ const Questions = () => {
                 </li>
                 <li className="ml-4 flex items-center gap-2">
                   <p className="font-bold">02:30pm:</p>
-                  <p>LVC organized group excursion</p>
+                  <p>kids organized group excursion</p>
                 </li>
                 <li className="ml-4 flex items-center gap-2">
                   <p className="font-bold">04:00pm:</p>
-                  <p>LVC organized afternoon activity</p>
+                  <p>Kids-Camp organized afternoon activity</p>
                 </li>
                 <li className="ml-4 flex items-center gap-2">
                   <p className="font-bold">06:30pm:</p>
@@ -55,11 +55,11 @@ const Questions = () => {
                 </li>
                 <li className="ml-4 flex items-center gap-2">
                   <p className="font-bold">08:00pm:</p>
-                  <p>LVC organized evening activity</p>
+                  <p>Kids-Camp organized evening activity</p>
                 </li>
                 <li className="ml-4 flex items-center gap-2">
                   <p className="font-bold">10:00pm:</p>
-                  <p>Return to your comfortable LVC accommodation</p>
+                  <p>Return to your comfortable kids-camp accommodation</p>
                 </li>
               </ul>
             </div>
