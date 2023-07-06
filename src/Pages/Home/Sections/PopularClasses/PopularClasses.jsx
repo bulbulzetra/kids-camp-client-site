@@ -49,7 +49,7 @@ const PopularClasses = () => {
 
     if (user && user.email) {
       fetch(
-        "popularClasses.json",
+        "https://kids-camp-server-wine.vercel.app",
         {
           method: "POST",
           headers: {

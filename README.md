@@ -1,19 +1,17 @@
-# Live Site : [LinguaViva Camp](https://linguaviva-camp.web.app/)
+# Live Site : [https://kids-camp-f5c05.web.app/]
+# Netlify Live Site: [https://cozy-halva-f7e26a.netlify.app/]
 ---
 
 ## You can login as-
 Admin : -
-Email : naziatasnim@gmail.com
-Password : Aa@000
+Email : bulbulzetra@gmail.com
+Password : 123456789
 -----------
-Instructor : -
-Email : believercasa@gmail.com
-Password : Aa@000
 -----------------------------------------------
 
-The Language Learning Web Application is a platform that facilitates language learning through various features and functionalities. It allows admins to manage users and classes, instructors to update and post classes, and normal users (students) to bookmark classes for enrollment and make payments.
+This is the Language Learning Web Application is a platform that facilitates language learning through various features and functionalities. It allows admins to manage users and classes, instructors to update and post classes, and normal users (students) to bookmark classes for enrollment and make payments.
 
-## Features
+--- Features---
 
 - Admin Management:
   - Approve or deny classes
@@ -29,7 +27,8 @@ The Language Learning Web Application is a platform that facilitates language le
 
 ## Technologies Used
 
-- MongoDB: NoSQL database used for storing data related to users, classes, and enrollment.
+- MongoDB: NoSQL database used for storing data related to users, classes, 
+  and enrollment.
 - React.js: JavaScript library used for building the user interface.
 - Firebase: Platform for authentication and hosting of the web application.
 - Tailwind CSS: CSS framework for styling the application.
@@ -39,9 +38,3 @@ The Language Learning Web Application is a platform that facilitates language le
 - Node.js: JavaScript runtime environment for running server-side code.
 - Express.js: Node.js framework for building the server-side API.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-project.git
