@@ -74,7 +74,7 @@ const Profile = () => {
   return (
     <>
       <Helmet>
-        <title>Profile | LVC</title>
+        <title>Profile | Kids Camp</title>
       </Helmet>
       <div className="flex justify-center">
         <h2 className="text-center mt-24 font-semibold text-2xl bg-sky-100 p-3 px-6 rounded-tr-full rounded-bl-full inline-block">

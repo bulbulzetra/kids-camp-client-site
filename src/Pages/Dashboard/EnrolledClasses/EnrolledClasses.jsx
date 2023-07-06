@@ -5,7 +5,7 @@ const EnrolledClasses = () => {
     return (
         <>
       <Helmet>
-        <title>Enrolled Classes | LVC</title>
+        <title>Enrolled Classes | Kids Camp</title>
       </Helmet>
         <div>
             EnrolledClasses

@@ -5,7 +5,7 @@ const PopularInstructors = () => {
   const { data: popularInstructors = [], isLoading } = useQuery({
     queryKey: ["popularInstructors"],
     queryFn: async () => {
-      const res = await fetch("https://b7a12-summer-camp-server-side-apurba-hasan-j.vercel.app/popular-instructors");
+      const res = await fetch("popularInstructor.json");
       return res.json();
     },
   },{ enabled: true });
@@ -17,7 +17,7 @@ const PopularInstructors = () => {
   return (
     <div>
       <div className="flex justify-center">
-        <h2 className="text-center my-3 font-semibold text-2xl bg-sky-200 p-3 px-6 rounded-tr-full rounded-bl-full inline-block">
+        <h2 className="text-center my-3 font-semibold text-2xl bg-sky-300 p-3 px-6 rounded-full inline-block">
           Popular Instructors
         </h2>
       </div>
@@ -37,7 +37,7 @@ const PopularInstructors = () => {
             <div className="card-body rounded-b-lg">
               <h2 className="card-title">{instructor.name}</h2>
               <p className="text-sm opacity-50">{instructor.email}</p>
-              <button className="btn btn-sm ml-auto btn-outline border border-green-400 bg-white text-green-400 hover:bg-green-400 hover:border-none hover:text-white">
+              <button className="btn btn-sm  btn-outline border border-gray-400 bg-sky-500 text-gray-900 hover:bg-green-400 hover:border-none hover:text-white">
               See All Classes
             </button>
             </div>

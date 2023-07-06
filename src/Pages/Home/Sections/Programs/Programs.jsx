@@ -7,7 +7,7 @@ const Programs = () => {
   useEffect(() => {
     axios
       .get(
-        "https://b7a12-summer-camp-server-side-apurba-hasan-j.vercel.app/programs"
+        "programs.json"
       )
       .then((res) => {
         console.log(res);
@@ -18,7 +18,7 @@ const Programs = () => {
   return (
     <div className=" bg-gray-100 grid mb-16 py-20">
         <div className="flex justify-center">
-        <h2 className="text-center  font-semibold text-2xl bg-sky-200 p-3 px-6 rounded-tr-full rounded-bl-full inline-block">
+        <h2 className="text-center  font-semibold text-2xl bg-sky-300 p-3 px-9 rounded-full  inline-block">
           Programs
         </h2>
       </div>

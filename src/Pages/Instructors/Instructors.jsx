@@ -41,8 +41,8 @@ const Instructors = () => {
             <div className="card-body rounded-b-lg">
               <h2 className="card-title">{instructor.name}</h2>
               <p className="text-sm opacity-50">{instructor.email}</p>
-              <button className="btn btn-sm ml-auto btn-outline border border-green-400 bg-white text-green-400 hover:bg-green-400 hover:border-none hover:text-white">
-                See All Classes
+              <button className="btn btn-sm  btn-outline border bg-sky-500 text-gray-800 hover:bg-sky-600 hover:border-none hover:text-white">
+                See Details
               </button>
             </div>
           </div>

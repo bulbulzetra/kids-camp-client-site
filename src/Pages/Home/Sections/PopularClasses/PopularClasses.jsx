@@ -91,7 +91,7 @@ const PopularClasses = () => {
   return (
     <div>
       <div className="flex justify-center">
-        <h2 className="text-center my-3 font-semibold text-2xl bg-sky-200 p-3 px-6 rounded-tr-full rounded-bl-full inline-block">
+        <h2 className="text-center my-3 font-semibold text-2xl bg-sky-300 p-3 px-8 rounded-full  inline-block">
           Popular Classes
         </h2>
       </div>

@@ -88,7 +88,7 @@ const Login = () => {
   return (
     <>
       <Helmet>
-        <title>Login | LVC</title>
+        <title>Login | Kids Camp</title>
       </Helmet>
       
       <div className="hero min-h-screen mt-16">

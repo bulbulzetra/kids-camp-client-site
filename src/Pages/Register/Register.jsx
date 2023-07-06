@@ -113,7 +113,7 @@ const Register = () => {
   return (
     <>
       <Helmet>
-        <title>Register | LVC</title>
+        <title>Register | Kids Camp</title>
       </Helmet>
       <div className="hero min-h-screen mt-16 mb-10 pt-10 ">
         <div className="hero-content flex-col items-start lg:flex-row-reverse">

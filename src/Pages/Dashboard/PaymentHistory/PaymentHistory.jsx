@@ -4,7 +4,7 @@ const PaymentHistory = () => {
   return (
     <>
       <Helmet>
-        <title>Payment History | LVC</title>
+        <title>Payment History |Kids Camp</title>
       </Helmet>
       <div>Payment History</div>
     </>

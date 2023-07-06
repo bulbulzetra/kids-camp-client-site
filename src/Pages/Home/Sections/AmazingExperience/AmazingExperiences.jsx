@@ -1,10 +1,11 @@
-import { FaInstagram, FaPlay } from "react-icons/fa";
+import { FaYoutube, FaPlay } from "react-icons/fa";
 
 const AmazingExperiences = () => {
   return (
     <div className="bg-black py-20 text-white">
-      <h2 className="flex justify-center items-center md:text-4xl text-2xl gap-4 font-semibold">
-        <FaInstagram />
+      <h2 className="flex justify-center items-center md:text-4xl text-2xl gap-4 
+      mb-5 font-semibold">
+        <FaYoutube />
         <p>Amazing experiences</p>
       </h2>
       <div className="my-container gap-6 grid md:grid-cols-4 sm:grid-cols-2">

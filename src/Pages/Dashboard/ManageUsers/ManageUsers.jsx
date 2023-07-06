@@ -79,7 +79,7 @@ const ManageUsers = () => {
   return (
     <>
       <Helmet>
-        <title>Manage Users | LVC</title>
+        <title>Manage Users |Kids Camp</title>
       </Helmet>
       <div className="flex justify-center">
         <h2 className="text-center my-5 font-semibold text-2xl bg-sky-200 p-3 px-6 rounded-tr-full rounded-bl-full inline-block">

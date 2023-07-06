@@ -47,7 +47,7 @@ const Dashboard = () => {
   return (
     <>
       <Helmet>
-        <title>Dashboard | LVC</title>
+        <title>Dashboard | Kids Camp</title>
       </Helmet>
       <div>
         <div className="grid navbar bg-sky-50 h-8 border-b grid-cols-3">
