@@ -1,0 +1,63 @@
+[
+    {
+        "_id": "6484bd2408ced883b975fcb9",
+        "clsTitle": "Learn English In US",
+        "instructorName": "Bulbul",
+        "thumbnailUrl": "https://i.ibb.co/jg1y9Bv/us.jpg",
+        "instructorEmail": "bulbulzetra@gmail.com",
+        "availableSeats": 250,
+        "price": 200,
+        "status": "approved"
+    },
+    {
+        "_id": "6484bcf908ced883b975fcb8",
+        "clsTitle": "Learn English In UK",
+        "instructorName": "Porimoni",
+        "thumbnailUrl": "https://i.ibb.co/hB0ZgtY/uk.png",
+        "instructorEmail": "porimoni@gmail.com",
+        "availableSeats": 1500,
+        "price": 199,
+        "status": "approved"
+    },
+    {
+        "_id": "6484bc8908ced883b975fcb7",
+        "clsTitle": "Learn Japanese Language In Korea",
+        "instructorName": "Soriful Raj",
+        "thumbnailUrl": "https://i.ibb.co/jfFb9YJ/korea.jpg",
+        "instructorEmail": "soriful@gmail.com",
+        "availableSeats": 200,
+        "price": 400,
+        "status": "approved",
+        "feedback": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, qui."
+    },
+    {
+        "_id": "64847db29babe536cef5f3ac",
+        "clsTitle": "Learn Italian in Italy",
+        "instructorName": "Dipjol Uncle",
+        "thumbnailUrl": "https://i.ibb.co/TYhyNJF/stock-photo-hello-word-cloud-in-different-languages-228876649.jpg",
+        "instructorEmail": "dipjoluncle@gmail.com",
+        "availableSeats": 200,
+        "price": 300,
+        "status": "approved"
+    },
+    {
+        "_id": "648473926fde6660c7183dd0",
+        "clsTitle": "Learn Spanish in Spain",
+        "instructorName": "Zayed Khan",
+        "thumbnailUrl": "https://i.ibb.co/QrrxXTx/stock-photo-speaking-spanish-language-268803239.jpg",
+        "instructorEmail": "zayedkhan@gmail.com",
+        "availableSeats": 0,
+        "price": 200,
+        "status": "approved"
+    },
+    {
+        "_id": "64846e9078f211765cf26ea7",
+        "clsTitle": "Learn French in Paris",
+        "instructorName": "Apu Biwas",
+        "thumbnailUrl": "https://i.ibb.co/8NM8Pnb/imagesfren.jpg",
+        "instructorEmail": "apubiwas@gmail.com",
+        "availableSeats": 300,
+        "price": 150,
+        "status": "approved"
+    }
+]

@@ -23,7 +23,7 @@ const PopularClasses = () => {
       queryKey: ["classesApproved"],
       queryFn: async () => {
         const res = await fetch(
-          "https://b7a12-summer-camp-server-side-apurba-hasan-j.vercel.app/popular-classes"
+          "popularClasses.json"
         );
         return res.json();
       },
@@ -49,7 +49,7 @@ const PopularClasses = () => {
 
     if (user && user.email) {
       fetch(
-        "https://b7a12-summer-camp-server-side-apurba-hasan-j.vercel.app/bookedClasses",
+        "popularClasses.json",
         {
           method: "POST",
           headers: {
