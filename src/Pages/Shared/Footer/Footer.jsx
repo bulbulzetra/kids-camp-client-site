@@ -14,7 +14,7 @@ const Footer = () => {
   }, []);
 
     return (
-        <footer className="bg-sky-50 pt-8 w-full">
+        <footer className="bg-sky-300 pt-8 w-full">
             <div className="flex justify-center mx-5 items-center flex-col">
                 <div className="md:flex gap-4 items-center">
                 <img className="rounded-full w-20" src={logo} alt="" />
@@ -39,6 +39,7 @@ const Footer = () => {
       className=" flex  gap-3">
     <img className="h-9 w-9 bg-sky-100 p-2 rounded-lg" src="https://i.postimg.cc/d0Yz1tks/facebook.png" alt="" />
     <img className="h-9 w-9 bg-sky-100 p-2 rounded-lg" src="https://i.postimg.cc/rF7BB9qt/instagram.png" alt="" />
+    <img className="h-9 w-9 bg-sky-100 p-2 rounded-lg" src="https://i.postimg.cc/cCD4RDkT/download-1.jpg" alt="" />
     
     <img className="h-9 w-9 bg-sky-100 p-2 rounded-lg" src={linkedin} alt="" />
    </div>
@@ -59,7 +60,7 @@ const Footer = () => {
   <div>
     <span className="footer-title text-black opacity-100 capitalize">Discover</span> 
     <Link to="#" className="link link-hover text-xs">Kids-Camp Blog</Link> 
-    <Link to="#" className="link link-hover text-xs">Kids-Camp English Proficiency Index (LVC EPI)</Link> 
+    <Link to="#" className="link link-hover text-xs">Kids-Camp English Proficiency Index </Link> 
     <Link to="#" className="link link-hover text-xs">Resources for learning English</Link> 
     <Link to="#" className="link link-hover text-xs">Language tests</Link>
     <Link to="#" className="link link-hover text-xs">Kids-Camp Teacher Zone</Link>
@@ -74,8 +75,8 @@ const Footer = () => {
     <div className="flex flex-col gap-1 mt-4">
     <span className="footer-title text-black opacity-100 capitalize">Address</span> 
     <p className=" text-xs">2469 Collins Ave</p> 
-    <p className=" text-xs">FL 33140, United States</p> 
-    <p className=" text-xs">+1 (877) 235-7895</p>
+    <p className=" text-xs">ABC -13456978, New York</p> 
+    <p className=" text-xs">+8809564649842</p>
   </div>
   </div> 
    
