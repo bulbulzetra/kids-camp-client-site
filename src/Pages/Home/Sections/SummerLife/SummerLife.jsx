@@ -29,7 +29,7 @@ const SummerLife = () => {
             <li>Over 50 years of experience</li>
             <li>Have fun with students from over 100 countries Comprehends</li>
             <li>Comprehensive package including, flights, meals & activities</li>
-            <li>Combine language learning with activities at top LVC destinations</li>
+            <li>Combine language learning with activities at top kids camp destinations</li>
             <li>Guaranteed progress with the Kids Camp Method</li>
             <li>Globally recognized and accredited summer camps</li>
           </ul>
