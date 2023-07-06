@@ -2,10 +2,7 @@
 # Netlify Live Site: [https://cozy-halva-f7e26a.netlify.app/]
 ---
 
-## You can login as-
-Admin : -
-Email : bulbulzetra@gmail.com
-Password : 123456789
+
 -----------
 -----------------------------------------------
 
