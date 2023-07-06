@@ -3,7 +3,7 @@ const Questions = () => {
     <div className="my-container ">
       <div className="md:ml-36 sm:ml-5 my-10 md:w-7/12 sm:w-11/12 px-2 w-full">
         <h3 className="md:text-4xl font-bold  text-2xl ">
-          Frequently asked questions
+          Frequently asked questions!!!
         </h3>
         <div className="join border-none  rounded-none join-vertical ">
           <div className="collapse m-0 border-y mt-7 rounded-none border-gray-200 collapse-arrow join-item ">
@@ -24,8 +24,8 @@ const Questions = () => {
                 <li className="ml-4 flex items-center gap-2">
                   <p className="font-bold">08:00am:</p>
                   <p>
-                    Have a meal with your homestay hosts or at your LVC
-                    residence
+                    Have a meal with your hosts or at your kids-Camp
+                    residence.
                   </p>
                 </li>
                 <li className="ml-4 flex items-center gap-2">
@@ -67,7 +67,7 @@ const Questions = () => {
           <div className="collapse collapse-arrow join-item border-b mt-10 rounded-none border-gray-200">
             <input type="radio" name="my-accordion-4" />
             <div className="collapse-title text-base font-bold">
-              # Who will I travel with during my summer camp?
+              # Whom shall I travel with during summer camp?
             </div>
             <div className="collapse-content pl-0 grid gap-5  md:text-base text-sm">
               <p>
@@ -82,11 +82,6 @@ const Questions = () => {
                 the destination you choose, with students from 30 or more
                 countries all meeting at camp and spending several exciting
                 weeks together.
-              </p>
-              <p>
-                Less experienced travelers can also choose to attend summer camp
-                with a group from their own country, so they have the
-                reassurance of their own language when they need it.
               </p>
             </div>
           </div>
@@ -104,13 +99,6 @@ const Questions = () => {
                 in over 14 destinations around the world, including Spain,
                 France, Portugal, Italy, Costa Rica, China, Japan, Germany and
                 more.
-              </p>
-              <p>
-                An immersion language camp is an effective way to improve your
-                foreign language skills by learning and applying essential
-                knowledge in a fun and relaxed environment. We have a variety of
-                options, including some camps exclusively for children who are
-                just getting started learning foreign languages.
               </p>
               <p>
                 All our camps include innovative language instruction classes
