@@ -24,12 +24,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyANR7bsn8rWTdFJWotDG9xeLewn8zdfYfw",
-  authDomain: "kids-camp-f5c05.firebaseapp.com",
-  projectId: "kids-camp-f5c05",
-  storageBucket: "kids-camp-f5c05.appspot.com",
-  messagingSenderId: "778987695787",
-  appId: "1:778987695787:web:3ab0a135b625d82e7a11ee"
+  apiKey: import.meta.env.VITE_apiKey,
+  authDomain: import.meta.env.VITE_authDomain,
+  projectId: import.meta.env.VITE_projectId,
+  storageBucket: import.meta.env.VITE_storageBucket,
+  messagingSenderId: import.meta.env.VITE_messagingSenderId,
+  appId: import.meta.env.VITE_appId
 };
 
 // Initialize Firebase

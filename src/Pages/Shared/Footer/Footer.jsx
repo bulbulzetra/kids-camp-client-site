@@ -67,7 +67,7 @@ const Footer = () => {
     <Link to="#" className="link link-hover text-xs">Useful guides</Link>
   </div> 
   <div>
-    <span className="footer-title text-black opacity-100 capitalize">About LVC Education First</span> 
+    <span className="footer-title text-black opacity-100 capitalize">About </span> 
     <Link to="#" className="link link-hover text-xs">About us</Link> 
     <Link to="#" className="link link-hover text-xs">All Kids-Camp Programs</Link> 
     <Link to="#" className="link link-hover text-xs">Jobs</Link> 
