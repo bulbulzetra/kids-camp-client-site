@@ -1,5 +1,5 @@
 # Live Site : [https://kids-camp-f5c05.web.app/]
-# Netlify Live Site: [https://cozy-halva-f7e26a.netlify.app/]
+# Netlify Live Site: [https://kida-camp.netlify.app/]
 ---
 
 
